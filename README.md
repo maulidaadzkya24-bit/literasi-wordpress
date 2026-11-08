@@ -22,6 +22,12 @@ Database diekspor di folder db/database.sql.
 ## topik situs
 Website Literasi Digital
 
+## Halaman Website
+- Beranda: halaman utama website.
+- Blog: halaman untuk menampilkan artikel atau tulisan.
+- Tentang Saya: halaman berisi informasi tentang pembuat website.
+- Kontak Saya: halaman untuk informasi atau menghubungi pembuat website.
+
 ## Penulis
 Nama: Maulida Adzkya Malika
 
